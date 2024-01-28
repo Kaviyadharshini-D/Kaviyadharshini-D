@@ -1,3 +1,4 @@
+![logo](https://github.com/Kaviyadharshini-D/Kaviyadharshini-D/blob/main/Git-Banner.png)
 <h1 align="center">Hi 👋, I'm Kaviya Dharishini</h1>
 <h3 align="center">Steering through the intricacies of Decision and Computing Science at Coimbatore Institute of Technology with a positive attitude. Merging analytical acumen with a passion for technology, I embrace challenges and seek innovation in the evolving landscape of computing.!</h3>
 
